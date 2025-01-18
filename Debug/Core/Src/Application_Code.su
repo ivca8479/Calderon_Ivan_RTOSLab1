@@ -1,0 +1,3 @@
+../Core/Src/Application_Code.c:15:6:application_init	8	static
+../Core/Src/Application_Code.c:42:6:led_blink	8	static
+../Core/Src/Application_Code.c:47:6:button_state	8	static
